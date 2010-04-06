@@ -1,0 +1,199 @@
+BODY{
+	background: black;
+}
+
+A{
+	color: #AA0000;
+	text-decoration: none;
+}
+
+A.network
+{
+	color: white;
+}
+A.computer
+{
+	color: white;
+}
+
+A.actions{
+	font-family: cursive;
+	padding: 2px;
+	border-width: thin;
+	border-color: red;
+	border-style: groove;
+	background: #DDDDDD;
+}
+
+A.logo{
+	color: white;
+}
+A.footer{
+	color: black;
+}
+
+TABLE.post
+{
+	padding: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-width: thick;
+	border-color: red;
+	border-style: groove;
+	background: grey;
+}
+
+TABLE.list
+{
+#	padding: 5px;
+#	margin-top: 25px;
+#	margin-bottom: 15px;
+#	border-width: thick;
+#	border-color: red;
+#	border-style: inset;
+	background: grey;
+}
+
+TABLE.new
+{
+	padding: 5px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	border-width: thick;
+	border-color: red;
+	border-style: double;
+	background: grey;
+}
+
+TD, TH
+{
+	padding: 5px 10px;
+	margin: 0px;
+}
+
+TH
+{
+	font-size: 16px;
+}
+
+TR
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+TD.main
+{
+	vertical-align: top;
+}
+
+TD.current_net
+{
+	background: grey;
+	color: black;
+}
+TD.current_com
+{
+	background: black;
+	color: white;
+}
+TD.com
+{
+	background: grey;
+	color: black;
+}
+TD.net
+{
+	background: black;
+	color: white;
+}
+
+H*{
+	text-align: center;
+}
+
+CAPTION{
+	caption-side: bottom;
+}
+
+H2 { 
+	background: grey; 
+	color: black; 
+	text-align: left;
+	margin: 0px; 
+	padding: 5px;
+}
+
+DIV#menu { 
+	background: black; 
+	color: white; 
+	margin: 0px; 
+	text-align: right;
+}
+
+DIV#menu UL { 
+	list-style-type: none; 
+	margin: 0px 5px; 
+	padding: 5px; 
+}
+
+DIV#menu LI { 
+	display: inline; 
+	padding: 0px 15px;
+}
+
+DIV#menu A { 
+	background: black; 
+	color: white; 
+	font-weight: bold; 
+	text-decoration: none;
+	padding: 5px;
+}
+
+SPAN.admin{
+	color: green;
+}
+SPAN.normal{
+	color: red;
+}
+
+P.red {
+	color: red;
+}
+P.center{
+	text-align: center;
+}
+
+#body{
+	position: absolute;
+	left: 10%;
+	right: 10%;
+	width: 80%;
+	height: 95%;
+	color: #DCDCDC;
+	font-size: 13px;
+}
+
+#footer{
+	position: relative;
+	bottom: -50px;
+	text-align: center;
+}
+
+#title
+{
+	background: grey;
+	text-align: center;
+}
+
+#select
+{
+	position: relative;
+	float: left;
+}
+
+#show
+{
+	position: relative;
+	float: right;
+}
