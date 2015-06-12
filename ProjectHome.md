@@ -1,0 +1,1 @@
+Eithne (Etna) es un sistema para realizar un inventario del hardware de todos los equipos de una red de manera automatizada y totalmente independiente del software instalado en los equipos.
